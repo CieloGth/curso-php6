@@ -1,0 +1,19 @@
+aislar, separar, organizar o sacar el resultado final antes de hacer la programacion
+
+Una abstracción se enfoca en la visión externa de un objeto,  separa el comportamiento  específico de un objeto, a esta división que realiza se le conoce como la barrera de abstracción, la cuál se consigue aplicando el principio de mínimo compromiso.
+
+Hay una alta gama de abstracciones que existen desde los objetos que modelan muy cerca de entidades, a objetos que no tienen razón para existir, vamos a hacer una rápida mención de ello.
+
+Abstracción de Entidades: Es un objeto que representa un modelo útil de una entidad que se desea.
+
+Abstracción de Acciones: Un objeto que representa un conjunto de operaciones y todas ellas desempeñan funciones del mismo tipo.
+
+Abstracción de Máquinas virtuales: Un objeto que agrupa operaciones, todas ellas virtuales, utilizadas por algún nivel superior de control u operaciones (entre ellos podríamos hablar de un circuito).
+
+Abstracción de coincidencia: Un objeto que almacena un conjunto de operaciones que no tienen relación entre sí.
+
+No está demás mencionar que toda abstracción tiene propiedades estáticas y dinámicas.
+
+Propiedades estáticas podemos mencionar, el nombre, el tamaño, en algunas ocasiones su contenido.
+
+Propiedades dinámicas podemos mencionar  peso, tamaño, contenido.
