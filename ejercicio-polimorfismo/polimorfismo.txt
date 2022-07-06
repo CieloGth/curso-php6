@@ -1,0 +1,4 @@
+polimorfisno -> varias formas 
+
+si un objeto se comporta de varias maneras y da diferentes resultados
+
