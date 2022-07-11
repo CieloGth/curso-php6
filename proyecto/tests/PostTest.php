@@ -11,7 +11,7 @@ use PhpParser\Comment as PhpParserComment;
 
             $post->addComment($comment);
 
-            $this->assertEquals(1,$post->countComment());
+            $this->assertEquals(1,$post->countComments());
             $this->assertInstanceOf(Comment::class, $post->getComments()[0]);
         }
     }
